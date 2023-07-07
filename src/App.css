@@ -1,0 +1,12 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+li {
+  margin-top: 10px;
+}
