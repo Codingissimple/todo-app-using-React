@@ -1,2 +1,2 @@
 # todo-app-using-React
-Created with CodeSandbox
+Simple Todo App built using React
